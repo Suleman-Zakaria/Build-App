@@ -4,6 +4,7 @@ const saveScoreBtn = document.getElementById('saveScoreBtn');
 const finalScore = document.getElementById('finalScore');
 const mostRecentScore = localStorage.getItem('mostRecentScore');
 
+
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
 /*Setting the cut off for the number of high scores to be saved*/
