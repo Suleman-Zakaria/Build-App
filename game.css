@@ -24,11 +24,12 @@
   padding: 1.5rem;
   width: 100%;
 }
-
+/*Green background for correct answer*/
 .correct {
   background-color: #28a745;
 }
 
+/*Red background for incorrect answer*/
 .incorrect {
   background-color: #dc3545;
 }
@@ -52,7 +53,7 @@
 #progressBar {
   width: 20rem;
   height: 4rem;
-  border: 0.3rem solid #56a5eb;
+  border: 0.3rem solid #80b5e2;
   margin-top: 1.5rem;
 }
 
