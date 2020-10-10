@@ -1,4 +1,6 @@
-:root {
+/*This work was adopted from
+ https://github.com/jamesqquick/Design-and-Build-a-Chat-Application-with-Socket.io*/
+root {
   background-color: rgb(238, 238, 238);
   font-size: 62.5%;
 }
