@@ -105,7 +105,7 @@ h3 {
   transform: none;
 }
 /*propertries of the form*/
-/* FORMS *
+/* FORMS */
 form {
   width: 100%;
   display: flex;
@@ -121,7 +121,7 @@ input {
   border: none;
   box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
 }
-Styling the text box
+/*Styling the text box*/
 input::placeholder {
   color: #aaa;
-}*/
+}
